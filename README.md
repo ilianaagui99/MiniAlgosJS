@@ -1,2 +1,3 @@
 # LittleAlgosCSharp
 # LittleAlgosCSharp
+# MiniAlgosJS
